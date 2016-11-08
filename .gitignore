@@ -143,40 +143,6 @@ publish/
 # TODO: Comment the next line if you want to checkin your web deploy settings
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-
 *.publishproj
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
@@ -285,4 +251,4 @@ paket-files/
 .idea/
 *.sln.iml
 
-*.atsuo
+.vs/
