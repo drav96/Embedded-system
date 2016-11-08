@@ -1,0 +1,6 @@
+default
+bin
+Debug
+Release
+*.tmp
+*.SDF
