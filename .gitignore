@@ -2,5 +2,6 @@ default
 bin
 Debug
 Release
+.vs
 *.tmp
 *.SDF
